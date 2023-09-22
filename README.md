@@ -1,2 +1,0 @@
-# Briiks
-Konfigurasi VoIP 
